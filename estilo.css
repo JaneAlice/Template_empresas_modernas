@@ -1,0 +1,238 @@
+body {
+    font-family: 'Roboto Slab', serif;
+}
+
+.h-50 {
+    height: 50px;
+}
+
+.h-163 {
+    height: 163px;
+}
+
+.h-530 {
+    height: 530px;
+}
+
+.h-350 {
+    height: 350px;
+}
+
+.h-545 {
+	height: 545px;
+}
+
+.h-838 {
+    height: 838px;
+}
+
+.w-300 {
+    width: 500px;
+}
+
+.bg-vermelho {
+    background-color: #330000;
+}
+
+.box-dimensao-1 {
+    background-color: #6855556e;
+    width: 480px;
+    height: 320px;
+    text-align: center;
+    font-size: 60px;
+    color: #6b62626e;
+    padding-top: 110px;
+    margin-top: 90px;
+}
+
+.box-dimensao-2 {
+    background-color: #3c0d0dd7;
+    width: 338px;
+    height: 197px;
+    text-align: center;
+    font-size: 40px;
+    color: #8377776e;
+    padding-top:70px;
+}
+
+.box-dimensao-3 {
+    background-color: #3c0d0dd7;
+    height: 330px;
+    text-align: center;
+    font-size: 50px;
+    color: #8377776e;
+    padding-top:125px;
+}
+
+.box-dimensao-4 {
+    background-color: #3c0d0dd7;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    font-size: 20px;
+    color: #8377776e;
+    padding-top:60px;
+    margin-left: 53px;
+}
+
+.cor-vermelho {
+    color: #330000 !important;
+}
+
+.logo-menu {
+    font-size: 20px;
+    margin-left: 30px;
+}
+
+.cor-rosa-1 {
+    color: #EFE9E2 !important;
+}
+
+.bg-rosa {
+    background-color: #a66f54;
+}
+
+.link-menu {
+    text-decoration: none !important;
+    margin-left: 20px;
+}
+
+.sombra-texto {
+    text-shadow: 0.1em 0.1em 0.2em rgba(34, 34, 34, 0.734)
+}
+
+.p-38 {
+    padding: 38px;
+}
+
+.p-28 {
+    padding: 28px;
+}
+
+.pt-100 {
+    padding-top: 100px;
+}
+
+.pb-10 {
+    padding-bottom: 10px;
+}
+
+.pb-100 {
+    padding-bottom: 100px;
+}
+
+.mt-80 {
+    margin-top: 80px;
+}
+
+.mt-100 {
+    margin-top: 100px;
+}
+
+.mb-80 {
+    margin-bottom: 80px;
+}
+
+.mb-350 {
+    margin-bottom: 350px;
+}
+
+.pl-100 {
+    padding-left: 100px;
+}
+
+.pr-105 {
+    padding-right: 105px;
+}
+.pr-125 {
+    padding-right: 125px;
+}
+
+.botao-enviar {
+    width: 138px;
+    margin-top: 40px;
+    margin-right: 20px;
+}
+
+.icones-home {
+    width: 40px;
+    height: 40px;
+    font-size: 20px;
+    background-color: #A67054;
+    color:white;
+    text-align: center;
+    padding-top: 5px;
+}
+
+.icone-contato {
+    width: 50px;
+    height: 50px;
+    background-color: #A67054;
+    color:white;
+    font-size: 28px;
+    padding-top: 5px;
+    margin-left: 526px;
+}
+
+.fonte-24 {
+    font-size: 24px !important;
+}
+
+.fonte-18 {
+    font-size: 18px !important;
+}
+
+.fonte-14 {
+    font-size: 14px;
+}
+
+.fonte-50 {
+    font-size: 60px !important;
+}
+
+.borda {
+	border: #330000 solid 2px ;
+}
+
+.botao-news {
+    width: 50px;
+    height: 20px;
+    color: white;
+    background-color:#A67054;
+    font-size: 10px;
+    padding: 2px !important;
+}
+
+.link-rodape-home {
+    color: #212529 !important;
+    text-decoration: underline;
+}
+
+.link-rodape {
+    color: #EFE9E2 !important;
+    text-decoration: underline;
+}
+
+.espacamento-linhas {
+    line-height: 34px;
+}
+
+.icones-check{
+    font-size: 8px;
+    margin-right: 5px;
+}
+
+.icones-x {
+    font-size: 11px;
+    margin-right: 5px;
+}
+
+.icone-estrela {
+    font-size: 15px;
+    color: gold;
+}
+
+.position-absolute {
+    bottom: 35px;
+    left: 40px;
+}
